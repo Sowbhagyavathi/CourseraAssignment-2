@@ -5,3 +5,5 @@ Module 2 solution link: [https://sowbhagyavathi.github.io/CourseraAssignment-2/m
 
 
 Module 3 solution link: [https://sowbhagyavathi.github.io/CourseraAssignment-2/module-3-solution/](https://sowbhagyavathi.github.io/CourseraAssignment-2/module-3-solution/)
+
+Module 4 soluution link: https://sowbhagyavathi.github.io/CourseraAssignment-2/module-4-solution/
